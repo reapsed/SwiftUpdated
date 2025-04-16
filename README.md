@@ -1,8 +1,16 @@
 🛠️ Swift Troubleshooting Guide
 Important
+
+
 Status: 🟢 Working
+
+
 Last updated version: Newest
+
+
 📋 Table of Contents
+
+
 Note
 
 Some files are required for swift to work, refer to Dependencies
